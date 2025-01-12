@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Monaspace+krypton&pause=1000&color=5A5074&random=true&width=435&lines=hey%2C+it's+Anas!;Hex+dancing+in+dark+corners;Surfing+the+forbidden+waves;Weaving+nightmares+in+assembly;Summoning+shells+from+the+ether;Glib+jocks+quiz+nymph+to+vex+dwarf;Testing+doors+with+crafted+whispers)](https://git.io/typing-svg)(https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Monaspace+krypton&pause=1000&color=5A5074&random=true&width=435&lines=hey%2C+it's+Anas!;Hex+dancing+in+dark+corners;Surfing+the+forbidden+waves;Weaving+nightmares+in+assembly;Summoning+shells+from+the+ether;Glib+jocks+quiz+nymph+to+vex+dwarf;Testing+doors+with+crafted+whispers)](https://git.io/typing-svg)](https://git.io/typing-svg)
 
 ---
 
