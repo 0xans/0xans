@@ -27,5 +27,5 @@
 
 ---
 
-`👨🏻‍💻` DEVELOPMENT
+`👨🏻‍💻` DEVELOPMENT<br>
 [![](https://skillicons.dev/icons?i=rust,python,bash,powershell,sqlite,notion,vim,visualstudio,vscode,arch,linux,windows,github,)](https://skillicons.dev)
