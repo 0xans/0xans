@@ -8,16 +8,12 @@
   \\___[ A Rust-based tool designed for process injection using WinAPI and NativeAPI.  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Rust`  
 
-- `💉` **`DLL Injector`**  
-  \\___[ Tool performs DLL injection, useful for testing application defenses.  
+- `🌐` **`Yurei`**  
+  \\___[ A Rust-based port scanner with raw packet crafting and asynchronous service detection.
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Rust`  
 
-- `🌐` **`CORS`**  
+- `🔧` **`CORS`**  
   \\___[ A Python tool that scans for CORS vulnerabilities.  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`  
-
-- `🔧` **`BoF ToolKit`**  
-  \\___[ A toolkit that assists in identifying and exploiting buffer overflow vulnerabilities.  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`  
 
 ---
