@@ -10,7 +10,6 @@
 
 - `🌐` **`Yurei`**  
   \\___[ A Rust-based port scanner with raw packet crafting and asynchronous service detection.
-
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Rust`  
 
 - `🔧` **`CORS`**  
