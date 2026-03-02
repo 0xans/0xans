@@ -12,6 +12,10 @@
   \\___[ A Rust-based port scanner with raw packet crafting and asynchronous service detection. 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Rust`  
 
+- `🚀` **`Process Injector`**  
+  \\___[ A Rust-based tool designed for process injection using WinAPI and NativeAPI.  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Rust`  
+
 - `🔧` **`CORS`**  
   \\___[ A Python tool that scans for CORS vulnerabilities.  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`  
