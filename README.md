@@ -9,11 +9,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Rust`  
 
 - `🌐` **`Yurei`**  
-  \\___[ A Rust-based port scanner with raw packet crafting and asynchronous service detection. 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Rust`  
-
-- `🚀` **`Process Injector`**  
-  \\___[ A Rust-based tool designed for process injection using WinAPI and NativeAPI.  
+  \\___[ A Rust-based port scanner with raw packet crafting and asynchronous service detection.   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Rust`  
 
 - `🔧` **`CORS`**  
