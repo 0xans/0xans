@@ -12,7 +12,7 @@
   \\___[ A Rust-based port scanner with raw packet crafting and asynchronous service detection.   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Rust`  
 
-- `🔧` **`Mirror Gate`**  
+- `🪞` **`Mirror Gate`**  
   \\___[ A process-injection technique using the Windows Console API.  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`  
 
