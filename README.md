@@ -4,7 +4,7 @@
 
 `🛠` **Projects**:  
 
-- `🚀` **`Felis`**  
+- `🚀` **`Aria`**  
   \\___[ Modern C2.  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Rust`  
 
