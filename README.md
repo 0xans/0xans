@@ -14,11 +14,11 @@
 `🛠` **Projects**:  
 
 - `🎵` **`Aria`**  
-  \\___[ Modern C2.  
+  \\___[ Modern C2 .  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Rust`  
 
-- `🌐` **`Yurei`**  
-  \\___[ A Rust-based port scanner with raw packet crafting and asynchronous service detection.   
+- `🕳️` **`SysHazw`**  
+  \\___[ Rust indirect syscall engine.   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Rust`  
 
 - `🪞` **`Mirror Gate`**  
