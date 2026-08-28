@@ -17,7 +17,7 @@
   \\___[ Modern C2 .  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Rust`  
 
-- `🕳️` **`SysHazw`**  
+- `🕳️` **`SysHaze`**  
   \\___[ Rust indirect syscall engine.   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Rust`  
 
