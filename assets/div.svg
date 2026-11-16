@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="36" viewBox="0 0 900 36">
+  <defs>
+    <linearGradient id="left" gradientUnits="userSpaceOnUse" x1="72" x2="405"><stop stop-color="#bc93c4" stop-opacity="0"/><stop offset="1" stop-color="#c69b72" stop-opacity=".6"/></linearGradient>
+    <linearGradient id="right" gradientUnits="userSpaceOnUse" x1="495" x2="828"><stop stop-color="#c69b72" stop-opacity=".6"/><stop offset="1" stop-color="#bc93c4" stop-opacity="0"/></linearGradient>
+    <style>
+      .star{transform-box:fill-box;transform-origin:center;animation:glimmer 5s ease-in-out infinite}
+      .second{animation-delay:-1.8s}.third{animation-delay:-3.2s}
+      @keyframes glimmer{0%,100%{opacity:.35;transform:scale(.8)}50%{opacity:1;transform:scale(1)}}
+      @media(prefers-reduced-motion:reduce){.star{animation:none;opacity:.8}}
+    </style>
+  </defs>
+  <path d="M72 18H405" stroke="url(#left)" vector-effect="non-scaling-stroke"/>
+  <path d="M495 18H828" stroke="url(#right)" vector-effect="non-scaling-stroke"/>
+  <path class="star second" d="m421 14 1.4 2.6L425 18l-2.6 1.4L421 22l-1.4-2.6L417 18l2.6-1.4Z" fill="#ae8fbd"/>
+  <path class="star" d="m450 10 2.8 5.2L458 18l-5.2 2.8L450 26l-2.8-5.2L442 18l5.2-2.8Z" fill="#c9976d"/>
+  <path class="star third" d="m479 14 1.4 2.6L483 18l-2.6 1.4L479 22l-1.4-2.6L475 18l2.6-1.4Z" fill="#ae8fbd"/>
+</svg>
