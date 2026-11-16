@@ -49,7 +49,7 @@ Process-injection research using the Windows Console API.
 
 ### certifications
 
-`eCPPT` &nbsp; `C|EH`
+`CPTS` &nbsp; `eCPPT` &nbsp; `CRTA` &nbsp; `C|EH` 
 
 ### development
 
